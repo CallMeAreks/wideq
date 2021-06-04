@@ -3,6 +3,11 @@
 dist/
 wideq_state.json
 __pycache__
+.vscode/
+# Ignore Mac system files
+.DS_Store
+# Ignore devcontainer for now (should this go in source control?)
+.devcontainer
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/modules.xml
