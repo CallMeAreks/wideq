@@ -8,3 +8,10 @@ __pycache__
 .DS_Store
 # Ignore devcontainer for now (should this go in source control?)
 .devcontainer
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/wideq.iml
+.idea/workspace.xml
+.idea/misc.xml
